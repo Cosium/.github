@@ -1,3 +1,11 @@
+# Careers
+
+We are always looking for talented engineers.
+
+Send us your resume to job@cosium.com or take a look at https://www.linkedin.com/company/cosium/jobs to find our current open positions.
+
+# About
+
 Cosium develops cloud-based software solutions and devices
 for the healthcare industry. In the few years since its inception
 in 2003, Cosium has acquired a dominant position as an
