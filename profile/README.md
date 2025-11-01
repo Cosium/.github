@@ -22,7 +22,7 @@ to the industry, from 3D representation and applications to
 custom-designed electronics for optical retail and domiciliary
 care.
 
-Our international team based in Versailles is rapidly expanding
+Our international team based in Versailles (France) is rapidly expanding
 to be able to offer our powerful and innovative solutions to
 more locales, for the benefit of healthcare professionals.
 
